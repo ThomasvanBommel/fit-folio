@@ -2,6 +2,7 @@
 Personal fitness tracker
 
 ## Requirements
+- [make](https://www.gnu.org/software/make/)
 - [podman](https://podman.io/)
 
 ## Build & Run
