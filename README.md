@@ -1,2 +1,2 @@
 # fit-folio
-Personal fitness tracket
+Personal fitness tracker
